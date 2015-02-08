@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:7
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:4:7
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:33
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+application
+ADDED from AndroidManifest.xml:5:5
+	android:label
+		ADDED from AndroidManifest.xml:5:48
+	android:icon
+		ADDED from AndroidManifest.xml:5:18
+	android:description
+		ADDED from AndroidManifest.xml:5:81
+activity#edu.dhbw.andar.pub.CustomActivity
+ADDED from AndroidManifest.xml:6:9
+	android:clearTaskOnLaunch
+		ADDED from AndroidManifest.xml:6:52
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:6:85
+	android:label
+		ADDED from AndroidManifest.xml:6:19
+	android:noHistory
+		ADDED from AndroidManifest.xml:6:172
+	android:name
+		ADDED from AndroidManifest.xml:6:123
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:7:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:8:17
+	android:name
+		ADDED from AndroidManifest.xml:8:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:9:17
+	android:name
+		ADDED from AndroidManifest.xml:9:27
+uses-sdk
+ADDED from AndroidManifest.xml:14:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:14:15
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:14:44
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.CAMERA
+ADDED from AndroidManifest.xml:16:1
+	android:name
+		ADDED from AndroidManifest.xml:16:18
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:17:1
+	android:name
+		ADDED from AndroidManifest.xml:17:18
+uses-feature#android.hardware.camera
+ADDED from AndroidManifest.xml:18:1
+	android:name
+		ADDED from AndroidManifest.xml:18:15
+uses-feature#android.hardware.camera.autofocus
+ADDED from AndroidManifest.xml:19:1
+	android:name
+		ADDED from AndroidManifest.xml:19:15
+supports-screens
+ADDED from AndroidManifest.xml:20:1
+	android:largeScreens
+		ADDED from AndroidManifest.xml:22:19
+	android:smallScreens
+		ADDED from AndroidManifest.xml:20:19
+	android:normalScreens
+		ADDED from AndroidManifest.xml:21:19
+	android:anyDensity
+		ADDED from AndroidManifest.xml:23:19
